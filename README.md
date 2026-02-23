@@ -1,7 +1,9 @@
 # CORSO DEL DOCENTE PROF SILVIO TROIA
 
+**Primi.esercizi-javascript.css**
+
 **Esercizio javascript**
-qui abbiamo:
-- esercizio javascript.html
-- esercizio javascript.js
-in questo file javascript ho fatto degli esercizi base per imparare ad usare javascript
+qui c'è tutto quello che ho fatto fino ad ora al corso per imparare javascript
+
+**Ts-project**
+
